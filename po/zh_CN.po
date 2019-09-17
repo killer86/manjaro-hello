@@ -24,16 +24,19 @@ msgstr ""
 msgid "Welcome to Manjaro!"
 msgstr "欢迎使用 Manjaro!"
 
-#: ui/manjaro-hello.glade:71
+#: ../ui/manjaro-hello.glade:164
 msgid ""
 "Thank you for joining our community!\n"
 "\n"
-"We, the Manjaro Developers, hope that you will enjoy using Manjaro as much as we enjoy building it. The links below will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback."
+"We, the Manjaro Developers, hope that you will enjoy using Manjaro as much "
+"as we enjoy building it. The links below will help you get started with your "
+"new operating system. So enjoy the experience, and don't hesitate to send us "
+"your feedback."
 msgstr ""
-"谢谢您加入我们的社区！\n"
+"感谢您加入我们的社区!\n"
 "\n"
-"作为 Manjaro 的开发者，我们希望您能享受使用 Manjaro，就如同我们享受建造它一样。下方的链接将帮助您开始使用您的新操作系统。请尽情享受这新的体验，并请您向我们分享您的意见反馈。"
-
+"作为Manjaro的开发者，我们衷心希望您能喜欢Manjaro 就跟我们热衷构建它一样。以下"
+"的链接能够帮助您更好的使用新的操作系统。祝您使用愉快，并且期待您的反馈。"
 #: ui/manjaro-hello.glade:89
 msgid "DOCUMENTATION"
 msgstr "文档"
@@ -56,13 +59,13 @@ msgstr "版本发布信息"
 
 #: ui/manjaro-hello.glade:158
 msgid "Wiki"
-msgstr "维基"
+msgstr "维基网页"
 
 #: ui/manjaro-hello.glade:163 ui/manjaro-hello.glade:194
 #: ui/manjaro-hello.glade:211 ui/manjaro-hello.glade:228
 #: ui/manjaro-hello.glade:245 ui/manjaro-hello.glade:262
 msgid "Web resource"
-msgstr ""
+msgstr "网站资源"
 
 #: ui/manjaro-hello.glade:175
 msgid "Get involved"
@@ -115,3 +118,11 @@ msgstr "Manjaro 的欢迎页面"
 #: src/manjaro_hello.py:212
 msgid "Can't load page."
 msgstr "无法载入页面"
+
+#: ../ui/manjaro-hello.glade:525
+msgid "Applications"
+msgstr "应用程序"
+
+#: ../ui/manjaro-hello.glade:529
+msgid "Common application selection"
+msgstr "选择常用的应用程序"
